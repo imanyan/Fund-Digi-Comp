@@ -5,3 +5,4 @@ sample of peer evaluation form
 develop the mobile app
 refined mobile app
 helps in design prototype
+build website for the group project
